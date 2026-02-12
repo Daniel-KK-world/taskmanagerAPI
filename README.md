@@ -15,7 +15,7 @@ A robust and scalable **Task Management REST API** built with **Spring Boot**, f
 ## Geting all tasks 
 <img width="853" height="583" alt="image" src="https://github.com/user-attachments/assets/5bc74e4e-8aa2-4de3-92b3-464ad19218b8" />
 
-## UPDARE 
+## UPDATE 
 <img width="851" height="352" alt="image" src="https://github.com/user-attachments/assets/ce569eb2-d648-409f-9234-582eb5cdf90a" />
 
 ## DELETE 
